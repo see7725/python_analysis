@@ -1,4 +1,4 @@
-import pandas as pdin
+import pandas as pd
 
 def main():
     df = pd.read_csv('上市公司資料.csv')
